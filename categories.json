@@ -1,0 +1,8 @@
+[
+    { "name": "Lunch", "short_name": "Lunch" },
+    { "name": "Dinner", "short_name": "Dinner" },
+    { "name": "Sushi", "short_name": "Sushi" },
+    { "name": "Desserts", "short_name": "Desserts" },
+    { "name": "Drinks", "short_name": "Drinks" }
+  ]
+  
